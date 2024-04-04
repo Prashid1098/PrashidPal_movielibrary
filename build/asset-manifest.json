@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PrashidPal_movielibrary/static/css/main.ef0e5f5b.css",
+    "main.js": "/PrashidPal_movielibrary/static/js/main.cd1e69d8.js",
+    "index.html": "/PrashidPal_movielibrary/index.html",
+    "main.ef0e5f5b.css.map": "/PrashidPal_movielibrary/static/css/main.ef0e5f5b.css.map",
+    "main.cd1e69d8.js.map": "/PrashidPal_movielibrary/static/js/main.cd1e69d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef0e5f5b.css",
+    "static/js/main.cd1e69d8.js"
+  ]
+}
